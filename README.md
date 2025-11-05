@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">🌊 Hey, I'm James (aka *Poseidon*)</h1>
-<h3 align="center">Software Engineer • Low-Level Programming Enthusiast • Tech Educator</h3>
+<h1 align="center">🌊 Hey, I'm Ngugi James</h1>
+<h3 align="center">Software Engineer • Low-Level Programming Enthusiast • Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/james-ngugi-giathi">LinkedIn</a> •
