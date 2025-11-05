@@ -1,12 +1,21 @@
-- 👋 Hi, I’m Ngugi James Giathi
-- 👀 I’m interested in Software development and Data Analytics
-- 🌱 I’m currently learning Software Engineering at The African Leadership University
-- 💞️ I’m looking to collaborate on web development projects and Python related fields
-- 📫 How to reach me: Whatsapp +254798150565 or ngugigiathi789@gmail.com
-- 😄 Pronouns: HE/HIM
-- I look forward to gaining as much hands on experience as I traverse this world of TECH
+<!-- Profile Header -->
+<h1 align="center">🌊 Hey, I'm James (aka *Poseidon*)</h1>
+<h3 align="center">Software Engineer • Low-Level Programming Enthusiast • Tech Educator</h3>
 
-<!---
-TheePoseidon/TheePoseidon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://www.linkedin.com/in/james-ngugi-giathi">LinkedIn</a> •
+  <a href="https://instagram.com/i_.am.jay">Instagram</a> •
+  <a href="https://x.com/i_am_jay789">X</a> •
+  <a href="https://linktr.ee/Ngugi_J">Linktree</a>
+</p>
+
+---
+
+### 🌊 About Me
+I'm passionate about **understanding computers from the inside out** — memory, processes, compilers, and system-level architecture.
+
+I also work to grow tech communities across Western Kenya by **teaching programming** and **organizing hackathons**.
+
+```bash
+$ whoami
+> Low-level dev ⚙️ focusing on C, memory systems & OS internals
