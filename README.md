@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">🌊 Hey, I'm Ngugi James</h1>
+<h1 align="center">Hey, I'm Ngugi James</h1>
 <h3 align="center">Software Engineer • Low-Level Programming Enthusiast • Tech Enthusiast</h3>
 
 <p align="center">
