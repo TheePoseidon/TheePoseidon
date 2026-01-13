@@ -14,8 +14,9 @@
 ### 🌊 About Me
 I'm passionate about **understanding computers from the inside out** — memory, processes, compilers, and system-level architecture.
 
-I also work to grow tech communities across Western Kenya by **teaching programming** and **organizing hackathons**.
+I am currently invested in blockchain technology and by extension Bitcoin and I hope to contribute more in open source projects as time goes by.
 
+# DREAM. BUILD. GROW
 ```bash
 $ whoami
 > Low-level dev ⚙️ focusing on C, memory systems & OS internals
